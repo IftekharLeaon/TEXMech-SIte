@@ -271,7 +271,7 @@ sections:
           innovation, and leadership in the fields of textile engineering and
           machinery, providing a platform for students to grow and excel.
         image:
-          url: /images/Adobe Express - file (1).jpg
+          url: /images/55.jpg
           altText: Placeholder image
           styles:
             self:
