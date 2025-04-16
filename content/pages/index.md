@@ -262,8 +262,9 @@ sections:
         tagline: This is the tagline
         subtitle: General Secretary | BUTEX TexMech Society
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          The BUTEX TEXMECH Society is dedicated to promoting knowledge,
+          innovation, and leadership in the fields of textile engineering and
+          machinery, providing a platform for students to grow and excel.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
