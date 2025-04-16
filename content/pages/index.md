@@ -244,7 +244,7 @@ sections:
           engineering and machinery.
 
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/48361177_10217210517276422_4150699421836771328_n.jpg
           altText: Placeholder image
           styles:
             self:
