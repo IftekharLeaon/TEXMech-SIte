@@ -267,7 +267,7 @@ sections:
         type: FeaturedItem
       - title: Mahin Safa
         tagline: This is the tagline
-        subtitle: 'General Secretary, BUTEX TexMech Society'
+        subtitle: General Secretary | BUTEX TexMech Society
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
