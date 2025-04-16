@@ -210,7 +210,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Hossain AL Ashraf
-        tagline: This is the tagline
+        tagline: ''
         subtitle: President | BUTEX TexMech Society
         text: >+
           The BUTEX TEXMECH Society stands as a hub of innovation and technical
