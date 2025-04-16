@@ -1,10 +1,10 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/12.png"
     },
-    "text": "A description of your brand",
+    "text": "*An organization dedicated to advancing knowledge in Textile Machinery and Manufacturing. With the support of the Dept. of TMDM, we connect students, researchers, and industry professionals to explore technological advancements and engineering excellence.*\n\n\n\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
