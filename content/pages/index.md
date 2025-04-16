@@ -242,7 +242,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Tanjheel Hasan Mahdy
+      - title: Tanjheel Hasan Mahdi
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
