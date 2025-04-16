@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Let's Make Changes Together!
     text: |+
-      <div style="text-align: left">***</div>
+      <div style="text-align: left"></div>
 
     actions:
       - label: Visit Facebook
