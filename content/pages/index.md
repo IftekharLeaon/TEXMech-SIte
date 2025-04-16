@@ -93,10 +93,11 @@ sections:
               borderRadius: x-large
       - title: Develop Leadership Skills
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          To inspire student-led research, innovation, and participation in
+          national and international competitions.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
