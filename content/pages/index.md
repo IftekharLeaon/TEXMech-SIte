@@ -60,7 +60,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Join us, Connect & Grow!'
     items:
       - type: FeaturedItem
         title: Bridge Academia and Industry
