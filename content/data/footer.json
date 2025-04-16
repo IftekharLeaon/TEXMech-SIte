@@ -104,6 +104,6 @@
         }
     ],
     "copyrightText": "<div style=\"text-align: left\">[**BUTEX TexMech Society © 2025**](https://www.facebook.com/Mechtex1)</div>\n\n",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
