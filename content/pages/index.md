@@ -267,7 +267,7 @@ sections:
         type: FeaturedItem
       - title: Mahin Safa
         tagline: This is the tagline
-        subtitle: 'https://www.facebook.com/Mechtex1'
+        subtitle: 'Moderator, BUTEX TexMech Society'
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
