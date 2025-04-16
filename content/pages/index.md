@@ -54,7 +54,7 @@ sections:
         textAlign: justify
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Our Objectives
       color: text-dark
       styles:
         self:
