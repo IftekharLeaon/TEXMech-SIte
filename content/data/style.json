@@ -2,8 +2,8 @@
     "light": "#ffffff",
     "dark": "#154a66",
     "neutral": "#E8E8EB",
-    "neutralAlt": "#DCDCDC",
-    "primary": "#292929",
+    "neutralAlt": "#b0c1cd",
+    "primary": "#172835",
     "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
