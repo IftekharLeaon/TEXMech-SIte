@@ -1,10 +1,10 @@
 {
     "light": "#ffffff",
-    "dark": "#154a66",
-    "neutral": "#f3faff",
+    "dark": "#051621",
+    "neutral": "#e3e3df",
     "neutralAlt": "#c1d3de",
-    "primary": "#172835",
-    "fontBody": "sans",
+    "primary": "#154b82",
+    "fontBody": "serif",
     "fontHeadlines": "sans",
     "h1": {
         "size": "6xl",
