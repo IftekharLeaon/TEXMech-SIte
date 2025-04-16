@@ -65,10 +65,11 @@ sections:
       - type: FeaturedItem
         title: Bridge Academia and Industry
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          To build strong connections between students and the textile industry
+          through industrial visits, expert talks, and collaborative projects.
+
         actions: []
         elementId: null
         colors: bg-dark-fg-light
