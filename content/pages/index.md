@@ -174,7 +174,7 @@ sections:
         textAlign: center
   - subtitle: Some Glorious Moments of us!
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/IMG_0267.JPG
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
