@@ -244,7 +244,7 @@ sections:
         type: FeaturedItem
       - title: Tanjheel Hasan Mahdi
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'Moderator, BUTEX TexMech Society'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
