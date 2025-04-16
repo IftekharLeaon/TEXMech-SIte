@@ -207,7 +207,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Let's get Introduced to our Founding Members!
     items:
       - title: Hossain AL Ashraf
         tagline: '46th Batch, BUTEX'
