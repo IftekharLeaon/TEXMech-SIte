@@ -262,7 +262,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Mahin Safa
-        tagline: This is the tagline
+        tagline: '46th Batch, BUTEX'
         subtitle: General Secretary | BUTEX TexMech Society
         text: >
           The BUTEX TEXMECH Society is dedicated to promoting knowledge,
