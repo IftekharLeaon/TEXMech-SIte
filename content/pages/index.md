@@ -8,13 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      ***An organization dedicated to advancing knowledge in textile machinery
-      and manufacturing. With the support of the Dept. of TMDM, we connect
-      students, researchers, and industry professionals to explore technological
-      advancements and engineering excellence.
+    text: >+
+      *An organization dedicated to advancing knowledge in textile machinery and
+      manufacturing. With the support of the Dept. of TMDM, we connect students,
+      researchers, and industry professionals to explore technological
+      advancements and engineering excellence.*
+
 
       ***
+
     actions:
       - label: Get started
         altText: ''
