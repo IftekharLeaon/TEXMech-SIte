@@ -267,7 +267,7 @@ sections:
         type: FeaturedItem
       - title: Mahin Safa
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 'https://www.facebook.com/Mechtex1'
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
