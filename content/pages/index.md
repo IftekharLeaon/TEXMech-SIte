@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      ***An organization dedicated to advancing knowledge in textile machinery
+      and manufacturing. With the support of the Dept. of TMDM, we connect
+      students, researchers, and industry professionals to explore technological
+      advancements and engineering excellence.
+
+      ***
     actions:
       - label: Get started
         altText: ''
