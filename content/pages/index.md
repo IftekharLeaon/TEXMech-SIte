@@ -221,7 +221,7 @@ sections:
     items:
       - title: Hossain AL Ashraf
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: President | BUTEX TexMech Society
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
