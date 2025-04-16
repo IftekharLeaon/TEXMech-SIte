@@ -7,7 +7,7 @@ sections:
       text: BUTEX TexMech Society
       color: text-primary
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Let's Make Changes Together!
     text: >+
       *An organization dedicated to advancing knowledge in textile machinery and
       manufacturing. With the support of the Dept. of TMDM, we connect students,
