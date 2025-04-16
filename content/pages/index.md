@@ -212,13 +212,11 @@ sections:
       - title: Hossain AL Ashraf
         tagline: This is the tagline
         subtitle: President | BUTEX TexMech Society
-        text: >
-          *The BUTEX TEXMECH Society stands as a hub of innovation and technical
+        text: >+
+          The BUTEX TEXMECH Society stands as a hub of innovation and technical
           excellence, empowering students to explore and advance the field of
           textile machinery and engineering.
 
-
-          *
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
