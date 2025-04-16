@@ -238,8 +238,11 @@ sections:
       - title: Tanjheel Hasan Mahdi
         tagline: This is the tagline
         subtitle: Moderator | BUTEX TexMech Society
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          The BUTEX TEXMECH Society is a dynamic platform that fosters
+          innovation, learning, and leadership in the field of textile
+          engineering and machinery.
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
