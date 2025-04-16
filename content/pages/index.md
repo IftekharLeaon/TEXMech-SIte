@@ -169,7 +169,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Some Glorious Moments of us!
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
