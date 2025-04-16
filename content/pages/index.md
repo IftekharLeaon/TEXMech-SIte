@@ -236,7 +236,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Tanjheel Hasan Mahdi
-        tagline: ''
+        tagline: 'Professor, BUTEX'
         subtitle: Moderator | BUTEX TexMech Society
         text: >+
           The BUTEX TEXMECH Society is a dynamic platform that fosters
