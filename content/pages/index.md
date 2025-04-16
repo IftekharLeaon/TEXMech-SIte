@@ -218,7 +218,7 @@ sections:
           textile machinery and engineering.
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/480330305_4063289747293288_386972599797036607_n.jpg
           altText: Placeholder Image
           styles:
             self:
