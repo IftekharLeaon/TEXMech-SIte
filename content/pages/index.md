@@ -202,7 +202,7 @@ sections:
     type: ImageGallerySection
   - title:
       text: Our Panel
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
