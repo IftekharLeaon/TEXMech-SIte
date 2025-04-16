@@ -118,10 +118,11 @@ sections:
         type: FeaturedItem
       - title: Create a Collaborative Community
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          To build a supportive network of peers, alumni, and professionals for
+          knowledge-sharing and mentorship.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
