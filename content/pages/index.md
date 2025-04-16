@@ -201,7 +201,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: List of features here
+      text: Our Panel
       color: text-light
       styles:
         self:
