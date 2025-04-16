@@ -202,7 +202,7 @@ sections:
     type: ImageGallerySection
   - title:
       text: List of features here
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
