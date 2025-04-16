@@ -9,10 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Let's Make Changes Together!
     text: >+
-      *An organization dedicated to advancing knowledge in **Textile Machinery
-      and Manufacturing**. With the support of the Dept. of TMDM, we connect
-      students, researchers, and industry professionals to explore technological
-      advancements and engineering excellence.*
+      <div style="text-align: center">*An organization dedicated to advancing
+      knowledge in **Textile Machinery and Manufacturing**. With the support of
+      the Dept. of TMDM, we connect students, researchers, and industry
+      professionals to explore technological advancements and engineering
+      excellence.*</div>
 
 
       ***
