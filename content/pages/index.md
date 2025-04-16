@@ -18,7 +18,7 @@ sections:
       ***
 
     actions:
-      - label: Get started
+      - label: Visit Facebook
         altText: ''
         url: /
         showIcon: false
