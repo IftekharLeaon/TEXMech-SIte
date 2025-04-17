@@ -303,7 +303,9 @@ sections:
         elementId: ''
 seo:
   metaTitle: BUTEX TexMech Society
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    An organization dedicated to advancing knowledge in Textile Machinery and
+    Manufacturing.
   socialImage: /images/cc.png
   type: Seo
 type: PageLayout
