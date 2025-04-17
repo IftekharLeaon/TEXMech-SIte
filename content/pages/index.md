@@ -308,5 +308,7 @@ seo:
     Manufacturing.
   socialImage: /images/latest.png
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
