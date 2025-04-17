@@ -31,10 +31,10 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Adobe Express - file (1).jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/Adobe Express - file (1).jpg
     badge:
       label: Introducing
       color: text-primary
@@ -214,11 +214,7 @@ sections:
       - title: Hossain AL Ashraf
         tagline: '46th Batch, BUTEX'
         subtitle: President | BUTEX TexMech Society
-        text: >+
-          The BUTEX TEXMECH Society stands as a hub of innovation and technical
-          excellence, empowering students to explore and advance the field of
-          textile machinery and engineering.
-
+        text: ''
         image:
           url: /images/Adobe Express - file.jpg
           altText: Placeholder Image
@@ -240,11 +236,7 @@ sections:
       - title: Tanjheel Hasan Mahdi
         tagline: 'Professor, BUTEX'
         subtitle: Moderator | BUTEX TexMech Society
-        text: >+
-          The BUTEX TEXMECH Society is a dynamic platform that fosters
-          innovation, learning, and leadership in the field of textile
-          engineering and machinery.
-
+        text: ''
         image:
           url: /images/48361177_10217210517276422_4150699421836771328_n.jpg
           altText: Placeholder image
@@ -266,10 +258,7 @@ sections:
       - title: Mahin Safa
         tagline: '46th Batch, BUTEX'
         subtitle: General Secretary | BUTEX TexMech Society
-        text: >
-          The BUTEX TEXMECH Society is dedicated to promoting knowledge,
-          innovation, and leadership in the fields of textile engineering and
-          machinery, providing a platform for students to grow and excel.
+        text: ''
         image:
           url: /images/55.jpg
           altText: Placeholder image
@@ -288,6 +277,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
@@ -301,6 +291,16 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+    actions:
+      - type: Button
+        label: View more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
