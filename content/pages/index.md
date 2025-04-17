@@ -293,7 +293,7 @@ sections:
     type: FeaturedItemsSection
     actions:
       - type: Button
-        label: Get started
+        label: View more
         altText: ''
         url: /
         showIcon: false
