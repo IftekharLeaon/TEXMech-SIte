@@ -306,7 +306,7 @@ seo:
   metaDescription: >-
     An organization dedicated to advancing knowledge in Textile Machinery and
     Manufacturing.
-  socialImage: /images/cc.png
+  socialImage: /images/latest.png
   type: Seo
 type: PageLayout
 ---
