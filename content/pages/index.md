@@ -214,11 +214,7 @@ sections:
       - title: Hossain AL Ashraf
         tagline: '46th Batch, BUTEX'
         subtitle: President | BUTEX TexMech Society
-        text: >+
-          The BUTEX TEXMECH Society stands as a hub of innovation and technical
-          excellence, empowering students to explore and advance the field of
-          textile machinery and engineering.
-
+        text: ''
         image:
           url: /images/Adobe Express - file.jpg
           altText: Placeholder Image
