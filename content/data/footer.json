@@ -51,5 +51,44 @@
     ],
     "copyrightText": "<div style=\"text-align: centre\">[**BUTEX TexMech Society © 2025**](https://www.facebook.com/Mechtex1)</div>\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "primaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "Product",
+        "links": [
+            {
+                "type": "Link",
+                "label": "Features",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Pricing",
+                "altText": "",
+                "url": "/pricing",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Documentation",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    }
 }
