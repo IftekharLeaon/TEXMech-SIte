@@ -311,5 +311,9 @@ seo:
   metaTags:
     - type: MetaTag
       property: 'og:description'
+      content: >-
+        With the support of the Dept. of TMDM, we connect students, researchers,
+        and industry professionals to explore technological advancements and
+        engineering excellence.
 type: PageLayout
 ---
