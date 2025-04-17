@@ -21,15 +21,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: LinkedIn
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Link
       - type: Button
         label: Get started
         altText: ''
