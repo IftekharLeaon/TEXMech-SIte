@@ -302,7 +302,7 @@ sections:
         style: primary
         elementId: ''
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: BUTEX TexMech Society
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/cc.png
   type: Seo
