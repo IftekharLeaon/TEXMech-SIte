@@ -301,6 +301,10 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
 seo:
   metaTitle: BUTEX TexMech Society
   metaDescription: >-
