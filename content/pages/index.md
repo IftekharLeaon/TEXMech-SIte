@@ -34,6 +34,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/Adobe Express - file (1).jpg
     badge:
       label: Introducing
       color: text-primary
