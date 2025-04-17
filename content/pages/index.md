@@ -258,10 +258,7 @@ sections:
       - title: Mahin Safa
         tagline: '46th Batch, BUTEX'
         subtitle: General Secretary | BUTEX TexMech Society
-        text: >
-          The BUTEX TEXMECH Society is dedicated to promoting knowledge,
-          innovation, and leadership in the fields of textile engineering and
-          machinery, providing a platform for students to grow and excel.
+        text: ''
         image:
           url: /images/55.jpg
           altText: Placeholder image
