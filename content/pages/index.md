@@ -21,15 +21,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: LinkedIn
+      - type: Button
+        label: LinkedIn
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
-        type: Link
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
@@ -302,9 +302,18 @@ sections:
         style: primary
         elementId: ''
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/cc.png
+  metaTitle: BUTEX TexMech Society
+  metaDescription: >-
+    An organization dedicated to advancing knowledge in Textile Machinery and
+    Manufacturing.
+  socialImage: /images/latest.png
   type: Seo
+  metaTags:
+    - type: MetaTag
+      property: 'og:description'
+      content: >-
+        With the support of the Dept. of TMDM, we connect students, researchers,
+        and industry professionals to explore technological advancements and
+        engineering excellence.
 type: PageLayout
 ---
