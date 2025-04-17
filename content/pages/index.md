@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Get started
+        label: LinkedIn
         altText: ''
         url: /
         showIcon: false
