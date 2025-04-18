@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Careers
+title: TexMech Executive Committee
 sections:
   - type: GenericSection
     title:
@@ -10,16 +10,15 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    subtitle: The Executive Committee
+    text: >+
+      The Executive Committee of the BUTEX TexMech Society works with dedication
+      and unity to plan, organize, and execute initiatives that drive the club’s
+      mission of academic excellence and professional growth.
+
     actions:
       - type: Button
-        label: See open positions
+        label: See More
         url: /
         icon: arrowRight
         iconPosition: right
@@ -50,8 +49,8 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
-      color: text-dark
+      text: Executive Committee 2025-26
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -62,9 +61,19 @@ sections:
       - content/data/person4.json
       - content/data/person5.json
       - content/data/person6.json
+      - content/data/ABC.json
+      - content/data/8.json
+      - content/data/bb9.json
+      - content/data/tt.json
+      - content/data/11th.json
+      - content/data/12th.json
+      - content/data/13th.json
+      - content/data/14th.json
+      - content/data/15th.json
+      - content/data/16th.json
     actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
+    variant: four-col-grid
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -78,15 +87,15 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Contact Us
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: We are always open to hear you.
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: General Secretary
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -106,7 +115,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: Office Secretary
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -126,7 +135,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Senior Software Engineer
+        title: HR Secretary
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
