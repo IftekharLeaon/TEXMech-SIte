@@ -11,11 +11,9 @@ sections:
       type: TitleBlock
     subtitle: The Executive Committee
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      The Executive Committee of the BUTEX TEXMECH Society works with dedication
+      and unity to plan, organize, and execute initiatives that drive the club’s
+      mission of academic excellence and professional growth.
     actions:
       - label: See open positions
         url: /
