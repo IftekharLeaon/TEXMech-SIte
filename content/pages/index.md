@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Visit Facebook
         altText: ''
-        url: /
+        url: 'https://www.facebook.com/Mechtex1'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -24,7 +24,7 @@ sections:
       - type: Button
         label: LinkedIn
         altText: ''
-        url: /
+        url: 'https://www.linkedin.com/company/texmech'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -295,7 +295,7 @@ sections:
       - type: Button
         label: View more
         altText: ''
-        url: /
+        url: /careers
         showIcon: false
         icon: arrowRight
         iconPosition: right
