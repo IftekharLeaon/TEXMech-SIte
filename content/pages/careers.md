@@ -92,7 +92,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: We are always open to hear you
+    subtitle: We are always open to hear you.
     items:
       - type: FeaturedItem
         title: Account Executive
