@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: The Executive Committee
     text: >
-      The Executive Committee of the BUTEX TEXMECH Society works with dedication
+      The Executive Committee of the BUTEX TexMech Society works with dedication
       and unity to plan, organize, and execute initiatives that drive the club’s
       mission of academic excellence and professional growth.
     actions:
