@@ -1,5 +1,5 @@
 ---
-title: /EC-Committee
+title: EC Committee
 slug: careers
 sections:
   - title:
