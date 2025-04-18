@@ -24,8 +24,7 @@ sections:
       - type: Button
         label: LinkedIn
         altText: ''
-        url: >-
-          https://l.facebook.com/l.php?u=https%3A%2F%2Flinkedin.com%2Fin%2Fhttps%253A%252F%252Fwww.linkedin.com%252Fcompany%252Ftexmech%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR4biQ7RFdsLUagyWAGKSlE2-4WnmOymXo71t-_vNPGgSJTT2Ba8DxZUuGmacw_aem_8Md4hL-aqUiiGYg7AQZdXA&h=AT1-onCqeYS8TTHarVPXYCfHlAhFvT4dB8w6nFUdSt2-vfSg6oO5aN-Rjf5agrEYMRFEyo1QFlhh0T1MetRHktIVnvsvCyodWpIPEQ6RDj1q80_taN4ccKDS5vuR0X2D3fdZ
+        url: 'https://www.linkedin.com/company/texmech'
         showIcon: false
         icon: arrowRight
         iconPosition: right
