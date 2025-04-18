@@ -1,6 +1,6 @@
 ---
 title: EC Committee
-slug: /EC2025
+slug: /career
 sections:
   - title:
       text: A team that works closely together
