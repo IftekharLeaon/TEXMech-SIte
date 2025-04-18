@@ -5,7 +5,7 @@
     "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/9.jpg",
+        "url": "/images/14.jpg",
         "altText": "First Last",
         "styles": {
             "self": {
