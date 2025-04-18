@@ -32,7 +32,7 @@
         {
             "label": "Executive Committee",
             "altText": "EC page",
-            "url": "/careers",
+            "url": "/EC-Committee",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
