@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Careers
+title: TexMech Executive Committee
 sections:
   - type: GenericSection
     title:
