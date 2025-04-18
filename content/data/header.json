@@ -70,6 +70,17 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "Button",
+            "label": "Executive Committee",
+            "altText": "",
+            "url": "/EC2025",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
@@ -94,5 +105,5 @@
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-dark-fg-light",
     "type": "Header",
-    "title": ""
+    "title": "BUTEX"
 }
