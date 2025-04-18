@@ -295,7 +295,7 @@ sections:
       - type: Button
         label: View more
         altText: ''
-        url: /EC
+        url: /career
         showIcon: false
         icon: arrowRight
         iconPosition: right
