@@ -70,7 +70,7 @@ sections:
       - content/data/15th.json
       - content/data/16th.json
     variant: four-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
