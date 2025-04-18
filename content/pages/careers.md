@@ -69,7 +69,7 @@ sections:
       - content/data/14th.json
       - content/data/15th.json
       - content/data/16th.json
-    variant: mixed-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
