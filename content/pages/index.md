@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Visit Facebook
         altText: ''
-        url: /
+        url: 'https://www.facebook.com/Mechtex1'
         showIcon: false
         icon: arrowRight
         iconPosition: right
