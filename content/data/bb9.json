@@ -2,7 +2,7 @@
     "type": "Person",
     "name": "Rahad Hasan",
     "role": "Treasurer",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
+    "bio": "",
     "image": {
         "type": "ImageBlock",
         "url": "/images/9.jpg",
