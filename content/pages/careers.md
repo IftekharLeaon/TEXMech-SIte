@@ -87,7 +87,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Contact Us
+      text: Contact TexMech!
       color: text-dark
       styles:
         self:
