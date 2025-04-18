@@ -71,7 +71,6 @@ sections:
       - content/data/bb9.json
       - content/data/tt.json
       - content/data/8.json
-      - content/data/9.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
