@@ -91,7 +91,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: Senior Software Engineer
+      - title: General Secretary
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
