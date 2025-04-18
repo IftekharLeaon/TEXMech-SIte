@@ -47,7 +47,7 @@ sections:
       url: /images/abstract-background.svg
   - title:
       text: Executive Committee 2025-26
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
