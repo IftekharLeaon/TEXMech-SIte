@@ -15,7 +15,7 @@ sections:
       and unity to plan, organize, and execute initiatives that drive the club’s
       mission of academic excellence and professional growth.
     actions:
-      - label: See open positions
+      - label: See More
         url: /
         icon: arrowRight
         iconPosition: right
