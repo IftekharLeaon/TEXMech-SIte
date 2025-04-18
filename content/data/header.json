@@ -70,6 +70,17 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/EC2025",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
