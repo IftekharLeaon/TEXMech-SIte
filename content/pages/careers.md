@@ -48,7 +48,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: Meet the team
+      text: Executive Committee 2025-26
       color: text-dark
       styles:
         self:
