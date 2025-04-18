@@ -74,6 +74,44 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Executive Committee 2025-26
+      color: text-light
+      styles:
+        self:
+          textAlign: center
+    people:
+      - content/data/person1.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+      - content/data/ABC.json
+      - content/data/8.json
+      - content/data/bb9.json
+      - content/data/tt.json
+      - content/data/11th.json
+      - content/data/12th.json
+      - content/data/13th.json
+      - content/data/14th.json
+      - content/data/15th.json
+      - content/data/16th.json
+    actions: []
+    variant: four-col-grid
+    colors: bg-dark-fg-light
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
