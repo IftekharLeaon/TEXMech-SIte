@@ -1,6 +1,6 @@
 ---
 title: EC Committee
-slug: careers
+slug: /EC
 sections:
   - title:
       text: A team that works closely together
