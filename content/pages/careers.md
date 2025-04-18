@@ -1,27 +1,38 @@
 ---
+type: PageLayout
 title: Careers
-slug: careers
 sections:
-  - title:
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: A team that works closely together
       color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
-    subtitle: The Executive Committee
+    subtitle: Section subtitle
     text: >
-      The Executive Committee of the BUTEX TexMech Society works with dedication
-      and unity to plan, organize, and execute initiatives that drive the club’s
-      mission of academic excellence and professional growth.
+      There are many variations of passages of Lorem Ipsum available, but the
+      majority have suffered alteration in some form, by injected humour, or
+      randomised words which don't look even slightly believable. If you are
+      going to use a passage of Lorem Ipsum, you need to be sure there isn't
+      anything embarrassing hidden in the middle of text.
     actions:
-      - label: See More
+      - type: Button
+        label: See open positions
         url: /
         icon: arrowRight
         iconPosition: right
         style: primary
-        type: Button
     colors: bg-neutral-fg-dark
+    backgroundImage:
+      type: BackgroundImage
+      url: /images/abstract-background.svg
+      altText: Placeholder image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
     styles:
       self:
         padding:
@@ -36,22 +47,14 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-    type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/abstract-background.svg
-  - title:
-      text: Executive Committee 2025-26
-      color: text-light
+  - type: FeaturedPeopleSection
+    title:
+      type: TitleBlock
+      text: Meet the team
+      color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
     people:
       - content/data/person1.json
       - content/data/person2.json
@@ -59,18 +62,9 @@ sections:
       - content/data/person4.json
       - content/data/person5.json
       - content/data/person6.json
-      - content/data/ABC.json
-      - content/data/8.json
-      - content/data/bb9.json
-      - content/data/tt.json
-      - content/data/11th.json
-      - content/data/12th.json
-      - content/data/13th.json
-      - content/data/14th.json
-      - content/data/15th.json
-      - content/data/16th.json
-    variant: four-col-grid
-    colors: bg-dark-fg-light
+    actions: []
+    variant: three-col-grid
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -81,39 +75,24 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: FeaturedPeopleSection
-  - title:
-      text: Contact Us
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Open positions
       color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
-    subtitle: We are always open to hear you
+    subtitle: Subtitle goes here
     items:
-      - title: General Secretary
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-      - title: Office Secretary
+      - type: FeaturedItem
+        title: Account Executive
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -126,13 +105,14 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-        type: FeaturedItem
-      - title: HR Secretary
+      - type: FeaturedItem
+        title: Open Source Engineer
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
+        actions: []
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -145,14 +125,31 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-        type: FeaturedItem
+      - type: FeaturedItem
+        title: Senior Software Engineer
+        subtitle: Engineering
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
     actions:
-      - label: Apply now
+      - type: Button
+        label: Apply now
         url: /
         icon: arrowRight
         iconPosition: right
         style: primary
-        type: Button
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
@@ -165,11 +162,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: FeaturedItemsSection
+slug: careers
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
   type: Seo
-type: PageLayout
+  metaTitle: Careers - Demo site
+  metaDescription: This is the careers page built with Netlify.
+  metaTags: []
 ---
