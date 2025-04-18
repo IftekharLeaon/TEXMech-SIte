@@ -83,7 +83,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Contact Us
       color: text-dark
       styles:
         self:
