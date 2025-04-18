@@ -15,7 +15,7 @@
         {
             "label": "Executive Committee",
             "altText": "EC page",
-            "url": "/career",
+            "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
