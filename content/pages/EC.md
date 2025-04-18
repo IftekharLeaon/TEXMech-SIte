@@ -168,7 +168,10 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: TexMech Executive Committee - 2025
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: >-
+    The Executive Committee of the BUTEX TexMech Society works with dedication
+    and unity to plan, organize, and execute initiatives that drive the club’s
+    mission of academic excellence and professional growth.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
