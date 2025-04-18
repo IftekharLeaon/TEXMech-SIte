@@ -295,7 +295,7 @@ sections:
       - type: Button
         label: View more
         altText: ''
-        url: /EC2025
+        url: /careers
         showIcon: false
         icon: arrowRight
         iconPosition: right
