@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: BUTEX TexMech Team works closely together
+      text: BUTEX TexMech Team works closely together!
       color: text-dark
       styles:
         self:
