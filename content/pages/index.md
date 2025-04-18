@@ -295,7 +295,7 @@ sections:
       - type: Button
         label: View more
         altText: ''
-        url: /EC-Committee
+        url: /EC
         showIcon: false
         icon: arrowRight
         iconPosition: right
