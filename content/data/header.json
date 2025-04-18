@@ -15,11 +15,12 @@
         {
             "label": "Executive Committee",
             "altText": "EC page",
-            "url": "/EC",
+            "url": "/career",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "elementId": "999"
         },
         {
             "label": "Pricing",
