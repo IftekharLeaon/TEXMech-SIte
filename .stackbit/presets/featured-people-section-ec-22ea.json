@@ -1,0 +1,117 @@
+{
+    "model": "FeaturedPeopleSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "EC",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Mine"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Executive Committee 2025-26",
+                    "color": "text-light",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": null,
+                "people": [
+                    {
+                        "$$ref": "content/data/person1.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/person2.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/person3.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/person4.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/person5.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/person6.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/ABC.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/8.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/bb9.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/tt.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/11th.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/12th.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/13th.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/14th.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/15th.json",
+                        "$$type": "Person"
+                    },
+                    {
+                        "$$ref": "content/data/16th.json",
+                        "$$type": "Person"
+                    }
+                ],
+                "actions": [],
+                "badge": null,
+                "elementId": null,
+                "variant": "four-col-grid",
+                "colors": "bg-dark-fg-light",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-16",
+                            "pl-16",
+                            "pb-16",
+                            "pr-16"
+                        ],
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-people-section-ec-22ea.png"
+        }
+    ]
+}
