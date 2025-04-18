@@ -15,7 +15,7 @@
         {
             "label": "Executive Committee",
             "altText": "EC page",
-            "url": "/EC-Committee",
+            "url": "/EC",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
