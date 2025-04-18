@@ -70,17 +70,6 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        },
-        {
-            "type": "Button",
-            "label": "Executive Committee",
-            "altText": "",
-            "url": "/careers",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
