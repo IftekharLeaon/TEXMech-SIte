@@ -89,7 +89,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: We are always open to hear you
     items:
       - title: General Secretary
         subtitle: Engineering
