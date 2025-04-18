@@ -2,7 +2,7 @@
     "type": "Person",
     "name": "Mehedi Hasan",
     "role": "Sports Secretary",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n\n",
+    "bio": "",
     "image": {
         "type": "ImageBlock",
         "url": "/images/10.jpg",
