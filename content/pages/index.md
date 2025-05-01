@@ -38,7 +38,7 @@ sections:
       styles:
         self:
           borderColor: border-primary
-          borderWidth: 8
+          borderWidth: 4
     badge:
       label: Introducing
       color: text-primary
