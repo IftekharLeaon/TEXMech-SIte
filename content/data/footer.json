@@ -7,12 +7,6 @@
     "text": "*An organization dedicated to advancing knowledge in Textile Machinery and Manufacturing. With the support of the Dept. of TMDM, we connect students, researchers, and industry professionals to explore technological advancements and engineering excellence.*\n\n\n\n\n",
     "socialLinks": [
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
