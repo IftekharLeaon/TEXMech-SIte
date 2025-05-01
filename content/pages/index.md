@@ -177,7 +177,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Some Glorious Moments of us!
+  - subtitle: Machine Mania 2025 is going on!
     images:
       - altText: Empathy logo
         type: ImageBlock
