@@ -39,7 +39,7 @@ sections:
         self:
           borderColor: border-primary
           borderWidth: 4
-          borderRadius: medium
+          borderRadius: large
     badge:
       label: Introducing
       color: text-primary
