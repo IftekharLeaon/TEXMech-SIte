@@ -35,6 +35,9 @@ sections:
       elementId: ''
       type: ImageBlock
       url: /images/Adobe Express - file (1).jpg
+      styles:
+        self:
+          borderColor: border-primary
     badge:
       label: Introducing
       color: text-primary
