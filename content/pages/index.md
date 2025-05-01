@@ -38,7 +38,7 @@ sections:
       styles:
         self:
           borderColor: border-primary
-          borderWidth: 8
+          borderWidth: 4
           borderRadius: large
     badge:
       label: Introducing
