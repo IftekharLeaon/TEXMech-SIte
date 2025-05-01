@@ -30,6 +30,13 @@
             "url": "/",
             "icon": "facebook",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "/",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [
